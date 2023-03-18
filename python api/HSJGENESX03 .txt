@@ -1,0 +1,65 @@
+HSJGENESX03 *
+HSJGENC01 **
+HSJGENVCENTER **
+HSJGENA08 **
+HSJGENDB05 **
+HSJGENF01 **
+HSJGENDB07 **
+HSJGENA04 **
+BADGEUSE **
+HSJGENM03 **
+HSJGENA05 **
+HSJGENC02 **
+HSJGENDB03 **
+HSJGENA02 **
+HSJGENA03 **
+HSJGENM01 **
+HSJGENA07 
+HSJGENA09
+HSJGENW03 **
+HSJGENW04 **
+HSJGENAHESTIA **
+HSJGENDPM04
+HSJGENGLPI **
+ACCUEIL **
+HSJGENIMP01 **
+HSJGENADM01 **
+HSJGENADM02 **
+HSJGENBKP01 **
+
+HSJGENESX03	Manuel	Physique	Hyperviseur 3 contenant les 2 controleurs de domaine
+HSJGENC01	Automatique sequentiel	Virtuel	Controleur de domaine AD / DNS/ DHCP
+HSJGENVCENTER	Automatique sequentiel	Virtuel	V Center
+HSJGENA08	Automatique sequentiel	Virtuel	Broker TSE
+HSJGENDB05	Automatique sequentiel	Virtuel	BDD OSIRIS/OXALYS
+HSJGENF01	Automatique sequentiel	Virtuel	Serveur de fichier
+HSJGENDB07	Automatique sequentiel	Virtuel	BDD GAP/CEGI
+HSJGENA04	Automatique Aléatoire	Virtuel	Applicatifs OSIRIS/OXALYS
+BADGEUSE	Automatique Aléatoire	Virtuel	Serveur Badge Bodet
+HSJGENM03	Automatique Aléatoire	Virtuel	Proxy Mssanté Wraptor
+HSJGENA05	Automatique Aléatoire	Virtuel	Applicatif et BDD Alfa
+HSJGENC02	Automatique sequentiel	Virtuel	Controleur de domaine AD / DNS/ DHCP
+HSJGENDB03	Automatique sequentiel	Virtuel	BDD CEGI/GEOCOM
+HSJGENA02	Automatique sequentiel	Virtuel	Broker TSE
+HSJGENA03	Automatique sequentiel	Virtuel	Applicatifs CEGI/GEOCOM
+HSJGENM01	Automatique sequentiel	Virtuel	Serveur Exchange 2016
+HSJGENA07	Automatique sequentiel	Virtuel	Applicatifs CEGI / GAP new
+HSJGENW03	Automatique sequentiel	Virtuel	Serveur IIS CEGIS
+HSJGENW04	Automatique sequentiel	Virtuel	Serveur DMP Osiris
+HSJGENAHESTIA	Automatique sequentiel	Virtuel	Serveur de Restauration
+HSJGENDPM04	Automatique sequentiel	Virtuel	Serveur DMP pour le DPI
+HSJGENGLPI	Automatique Aléatoire	Virtuel	Serveur gestion ticket
+ACCUEIL	Automatique Aléatoire	Virtuel	VM Windows XP pour Infoserv
+HSJGENIMP01	Automatique Aléatoire	Virtuel	Serveur d'impression
+HSJGENADM01	Automatique Aléatoire	Virtuel	Serveur WSUS / Administration
+HSJGENADM02	Automatique Aléatoire	Virtuel	Serveur PRTG
+HSJGENBKP01	Automatique Aléatoire	Virtuel	Serveur Sauvegarde VEEAM
+
+
+serveur à mettre à jour pour la semaine prochaine
+portail
+commendfrance.zohodesk.eu 
+serveur ondulé
+a03,db07, w03 et a04 db05, w04 le 07/02
+
+
